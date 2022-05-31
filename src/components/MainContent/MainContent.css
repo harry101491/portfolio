@@ -38,7 +38,7 @@
 }
 
 .MainContent .Experience .ExperienceContent .ExperienceItem{
-    margin: 8px 0;
+    margin: 8px 0 16px 0;
 }
 
 .Dates > i {
@@ -66,7 +66,7 @@
 }
 
 .MainContent .Project .ProjectContent .ProjectItem{
-    margin: 8px 0;
+    margin: 8px 0 16px 0;
 }
 
 .MainContent .Skill .SkillList {
@@ -127,5 +127,6 @@
     .MainContent .Education .EducationContent .EducationItem {
         display: flex;
         flex-direction: column;
+        margin: 8px 0 16px 0;
     }
 }
